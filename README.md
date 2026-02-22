@@ -93,11 +93,6 @@ Developed a Chrome extension to automatically log out inactive sessions to enhan
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsokaypiyush\&show_icons=true\&hide_title=true)
-
----
 
 ## Contact
 
